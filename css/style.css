@@ -1,0 +1,38 @@
+body {
+    background-color: whitesmoke;
+}
+
+header {
+
+}
+
+.inizio{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid white;
+    width: 1000px;
+}
+
+#logo {
+    height: 100px;
+    line-height: 90px;
+    vertical-align: middle;
+}
+
+.logo-text{
+    font-size: 30px;
+    padding-top: 120px;
+}
+
+main{
+    background-color: white;
+    width: 1000px;
+    height: 200px;
+    text-align:left;
+    margin-left: 25%;
+    padding-right: 25%;
+}
+
+.buttons{
+    padding-left: 30px;
+}

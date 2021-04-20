@@ -1,5 +1,7 @@
 body {
     background-color: whitesmoke;
+    margin: auto;
+    width: 50%;
 }
 
 header {
@@ -9,30 +11,37 @@ header {
 .inizio{
     background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 1px solid white;
-    width: 1000px;
+    width: 100%;
 }
 
 #logo {
     height: 100px;
+    
     line-height: 90px;
     vertical-align: middle;
 }
 
 .logo-text{
     font-size: 30px;
-    padding-top: 120px;
 }
 
-main{
+
+
+.container{
+    width: 100%;
     background-color: white;
-    width: 1000px;
-    height: 200px;
-    text-align:left;
-    margin-left: 25%;
-    padding-right: 25%;
+    margin-top: 40px;
 }
 
-.buttons{
-    padding-left: 30px;
+nav{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+button{
+    color: lightgray;
+}
+
+.uno{
+    background-color: black;
 }

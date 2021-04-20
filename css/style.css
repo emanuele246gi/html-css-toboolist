@@ -104,3 +104,34 @@ li{
     color: red;
     font-size: small;
 }
+
+.extra {
+    font-size: 12px;
+    border-radius: 12px;
+    padding: 5px;
+    color: white;
+}
+
+.ed{
+    background-color: teal;
+}
+
+.q1{
+    background-color: rgb(146, 77, 146);
+}
+
+.re{
+    background-color: rgb(65, 156, 65);
+}
+
+.mo{
+    background-color: orange;
+}
+
+.we{
+    background-color: rgb(226, 97, 97);
+}
+
+.sa{
+    background-color: rgb(132, 179, 61);
+}

@@ -25,14 +25,12 @@ header {
     font-size: 30px;
 }
 
-
-
 .nav{
     width: 100%;
     background-color: white;
     margin-top: 40px;
-    border-radius: 5px;
-
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
 }
 
 nav{
@@ -60,10 +58,16 @@ button{
     color: lightgray;
 }
 
+.lista{
+    width: 100%;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
 li{
     color: rgb(56, 56, 56);
-    font-weight: bold;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .lista-titolo:before{

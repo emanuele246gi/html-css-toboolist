@@ -81,8 +81,26 @@ li{
     color: rgb(56, 56, 56);
     font-size: 20px;
     list-style-type:none;
+    line-height: 30px;
+    vertical-align: middle;
 }
 
 .lista-titolo:before{
     content: '\25BC';
+}
+
+.symbolp{
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 1px 5px;
+    color: green;
+    font-size: small;
+}
+
+.symboln{
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 1px 5px;
+    color: red;
+    font-size: small;
 }

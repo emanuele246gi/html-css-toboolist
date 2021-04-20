@@ -27,7 +27,7 @@ header {
 
 
 
-.container{
+.nav{
     width: 100%;
     background-color: white;
     margin-top: 40px;
@@ -58,4 +58,14 @@ button{
     border-color: lightslategray;
     border: 1px solid lightslategray;
     color: lightgray;
+}
+
+li{
+    color: rgb(56, 56, 56);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.lista-titolo:before{
+    content: '\25BC';
 }
